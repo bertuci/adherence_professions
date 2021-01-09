@@ -1,2 +1,1 @@
-# adherence_professions
- Adherence in IT professions
+# Adherence in IT professions
